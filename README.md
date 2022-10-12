@@ -11,6 +11,23 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. Determine the winner of the election based on popular vote. 
 
 ### Purpose
+A model was built to access an election database to get descriptive information of the election.
+
+### Election-Audit Results:
+
+The analysis of the election show that:
+
+* In this congressional election, there were 369, 711 total votes. 
+* County Votes Breakdown:
+  * Jefferson got 10.5% of the vote and 38,855 of the votes.
+  * Denver got 82.8% of the vote and 306,055 of the votes.
+  * Arapahoe got 6.7% of the vote and 24,801 of the votes.
+* The county with the largest number of votes was Denver.
+* Candidate Votes Breakdown.
+  * Charles Casper Stockham received 23.0% of the vote and 85,213 of votes.
+  * Diana DeGettereceived received 73.8% of the vote and 272,892 of votes.
+  * Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
+* Diana DeGettereceived, who received 73.8% of the vote and 272,892 of votes.
 
 ## Resources
 
@@ -19,7 +36,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 
 ## Summary
-The analysis of the election show that:
+
 
 -There were 369,711 votes cast in the election.
 - The candidates were: 
