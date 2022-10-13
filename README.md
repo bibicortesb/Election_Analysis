@@ -11,9 +11,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. Determine the winner of the election based on popular vote. 
 
 ### Purpose
-A model was built to access an election database to get descriptive information of the election.
+The purpose is to assist with an election audit of the tabulated results for a U.S. congressional precinct in Colorado. A model was built to access an election database to get descriptive information of the election.
 
-### Election-Audit Results:
+## Election-Audit Results:
 
 The analysis of the election show that:
 
@@ -29,16 +29,20 @@ The analysis of the election show that:
   * Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
 * Diana DeGettereceived, who received 73.8% of the vote and 272,892 of votes.
 
+### Tabulated Results
+ ![Captura de Pantalla 2022-10-13 a la(s) 15 15 02](https://user-images.githubusercontent.com/114015620/195700520-1eb35572-2a8c-4af2-9a3f-11c3204be1a2.png)
+
+
+
 ## Resources
 
 - Data Source: election_results.cvs
-- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Software: Python 3.9.12, Visual Studio Code, 1.71.2
 
 
 ## Summary
 
-
--There were 369,711 votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were: 
   - Charles Casper Stockham
   - Diana DeGette
@@ -49,9 +53,7 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
 - The winner of the election was:
   - Diana DeGettereceived, who received 73.8% of the vote and 272,892 of votes.
- 
 
-## Challenge Overview
 
-## Challenge Sumary
+
 
